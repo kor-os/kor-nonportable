@@ -12,4 +12,6 @@ A modern browser
 ## Known issues:
 
 The store doesn't tell you when the app is downloaded (✖️ Not fixed)
+
+
 Ghost apps (✖️ Not fixed)

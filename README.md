@@ -22,3 +22,15 @@ The store doesn't tell you when the app is downloaded (✖️ Not fixed)
 
 
 Ghost apps (✖️ Not fixed)
+
+
+## Ideas
+
+
+Better (regex?) cuss filter
+
+
+Dictionary
+
+
+

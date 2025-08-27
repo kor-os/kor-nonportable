@@ -6,8 +6,14 @@ Kor-OS is an Equinox-max JavaScript (JS) pseudo-OS that supports apps-from-the-i
 
 ## Requirements:
 NyaNet (set up Nyanet via *arcane.kitties.cat/nyanet*)
+
+
 An internet connection
+
+
 A modern browser
+
+
 
 ## Known issues:
 
